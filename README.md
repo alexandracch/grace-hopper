@@ -1,4 +1,4 @@
-# ***Grace Hoper***
+# ***Grace Hopper***
 ### **Página web de información biográfica**
 
 ---
